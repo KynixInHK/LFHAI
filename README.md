@@ -2,7 +2,7 @@
 The backgammon AI program for ㄌㄈㄏ with C language.
 ## Clone the program
 ```shell
-$ git clone "https://github.com/KynixInHK/LFHAI/"
+$ git clone "https://github.com/KynixInHK/LFHAI.git"
 ```
 ## IDE & Environment
 - `IDE`: Jetbrains CLion 2023.1.1

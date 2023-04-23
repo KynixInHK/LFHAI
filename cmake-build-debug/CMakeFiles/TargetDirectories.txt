@@ -1,0 +1,3 @@
+/home/kynix/agent/cmake-build-debug/CMakeFiles/agent.dir
+/home/kynix/agent/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kynix/agent/cmake-build-debug/CMakeFiles/rebuild_cache.dir
